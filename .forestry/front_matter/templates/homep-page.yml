@@ -2,3 +2,5 @@
 label: homep page
 hide_body: false
 fields: []
+pages:
+- _posts/test.md
