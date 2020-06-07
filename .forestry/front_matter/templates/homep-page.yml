@@ -1,6 +1,23 @@
 ---
 label: homep page
 hide_body: false
-fields: []
+fields:
+- name: q
+  type: blocks
+  label: test
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: '1'
+- name: wenzhang
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: coll
 pages:
 - _posts/test.md
