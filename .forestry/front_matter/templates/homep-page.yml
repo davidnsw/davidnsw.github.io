@@ -2,6 +2,12 @@
 label: homep page
 hide_body: false
 fields:
+- name: David
+  type: text
+  config:
+    required: false
+  label: blog
+  description: blog is label <br>name is david
 - name: q
   type: blocks
   label: test
