@@ -27,7 +27,6 @@ author: David
 
 
 
-
 ### 02 中国政法大学公开课：犯罪心理学
 
 [http://open.163.com/newview/movie/free?pid=MDPKC03R5&mid=MDPKFIU6H](https://link.zhihu.com/?target=http%3A//open.163.com/newview/movie/free%3Fpid%3DMDPKC03R5%26mid%3DMDPKFIU6H)
