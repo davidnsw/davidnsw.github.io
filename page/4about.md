@@ -15,7 +15,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/davidnsw)
+* GitHub：[David CHEN](https://github.com/davidnsw)
 
 * email：请通过下面的Disqus联系我
 
