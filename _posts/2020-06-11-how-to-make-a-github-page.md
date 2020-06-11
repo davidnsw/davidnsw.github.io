@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何搭建GitHub Pages与Jekyll教程"
-date:   2020-06-12 15:14:54
+date:   2020-06-11 15:14:54
 categories: Sublime
 tags: Github
 ---
