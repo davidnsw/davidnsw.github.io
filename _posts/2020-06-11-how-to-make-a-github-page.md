@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何搭建GitHub Pages与Jekyll教程"
-date:   2020-06-10
+date:   2020-06-11
 categories: Github
 tags: Github study
 ---
