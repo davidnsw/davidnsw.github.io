@@ -1,4 +1,4 @@
-I"�
+I"�
 <ul id="markdown-toc">
   <li><a href="#关于我" id="markdown-toc-关于我">关于我</a></li>
   <li><a href="#联系我" id="markdown-toc-联系我">联系我</a></li>
@@ -55,7 +55,7 @@
         var d = document,
             s = d.createElement('script');
 
-        s.src = '//gaohaoyang.disqus.com/embed.js';
+        s.src = '//davidnsw.disqus.com/embed.js';
 
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);

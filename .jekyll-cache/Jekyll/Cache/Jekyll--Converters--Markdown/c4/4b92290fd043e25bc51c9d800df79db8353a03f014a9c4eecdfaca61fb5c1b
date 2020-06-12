@@ -1,4 +1,4 @@
-I"�?<ul id="markdown-toc">
+I"�?<ul id="markdown-toc">
   <li><a href="#工具" id="markdown-toc-工具">工具</a></li>
   <li><a href="#编程语言" id="markdown-toc-编程语言">编程语言</a>    <ul>
       <li><a href="#javascript" id="markdown-toc-javascript">JavaScript</a></li>
@@ -431,7 +431,7 @@
         var d = document,
             s = d.createElement('script');
 
-        s.src = '//gaohaoyang.disqus.com/embed.js';
+        s.src = '//davidnsw.disqus.com/embed.js';
 
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
