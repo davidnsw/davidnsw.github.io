@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "美国的两种价值观？"
-date:   2020-06-14 14:06:05
+date:   2020-06-14
 categories: Social
 tags: Social news opinion us
 excerpt: 美国有两种价值观，共和党和民主党则选择分别代表其中一边。
