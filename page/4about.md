@@ -17,7 +17,9 @@ type: page
 
 * GitHub：[David CHEN](https://github.com/davidnsw)
 
-* email：请通过下面的Disqus联系我
+* 电话：[寻找一个合适的时间点](https://calendly.com/guangwei/phone-call)
+
+* Notion：[Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520)
 
 * [Weibo](http://weibo.com)
 
@@ -26,6 +28,8 @@ type: page
 * [Facebook](https://www.facebook.com)
 
 * [豆瓣](https://www.douban.com/people/55478060/)
+
+* [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
   
 
