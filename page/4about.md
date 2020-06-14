@@ -17,7 +17,7 @@ type: page
 
 * GitHub：[David CHEN](https://github.com/davidnsw)
 
-* 电话：[寻找一个合适的时间点](https://calendly.com/guangwei/phone-call)
+* 电话：[请点击选择您觉得合适的时间](https://calendly.com/guangwei/phone-call)
 
 * Notion：[Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520)
 
