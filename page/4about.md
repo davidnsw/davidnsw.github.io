@@ -15,23 +15,41 @@ type: page
 
 ## 联系我
 
-* GitHub：[David CHEN](https://github.com/davidnsw)
+**杂文**
 
-* 电话：[请点击选择您觉得合适的时间](https://calendly.com/guangwei/phone-call)
+> [Homepage](https://davidnsw.github.io/homepage/) - 我的主页
+>
+> [Blog](https://davidnsw.github.io./) - 我的博客
+>
+> Notion：[Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520) -临时笔记
 
-* Notion：[Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520)
 
-* [Weibo](http://weibo.com)
 
-* [知乎](https://www.zhihu.com)
+**读书**
 
-* [Facebook](https://www.facebook.com)
+> * [豆瓣](https://www.douban.com/people/55478060/)
+> * [Goodreads](https://www.goodreads.com/user/show/57208002-david)
+> * [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
-* [豆瓣](https://www.douban.com/people/55478060/)
 
-* [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
-  
+**社交**
+
+> * [Weibo](http://weibo.com)
+> * [知乎](https://www.zhihu.com)
+> * [Facebook](https://www.facebook.com)
+
+
+
+**其他**
+
+GitHub：[David CHEN](https://github.com/davidnsw)
+
+电话：[请点击选择一个合适的通话时间](https://calendly.com/guangwei/phone-call)
+
+
+
+
 
 ## 友情链接
 
