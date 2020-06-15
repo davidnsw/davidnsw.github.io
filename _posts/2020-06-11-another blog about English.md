@@ -2,16 +2,15 @@
 layout: post
 title:  "介绍一个学习方法-回音法"
 date:   2020-06-11
-categories: study
+categories: Study
 tags: course study
 author: David
+excerpt: 学习任何一种语言要先从模仿开始。先听native speaker都怎么说，才能自己说出一口流利又正确的英文。也许你听过shadowing，意即“跟读”，这是个满普遍的精进听力口语方法。
 ---
 
 * content
 {:toc}
 回音法的一篇简短介绍
-<br/>
-<br/>
 
 ## 回音法是什么
 

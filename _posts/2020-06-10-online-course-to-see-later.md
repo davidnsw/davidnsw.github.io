@@ -2,9 +2,10 @@
 layout: post
 title:  "推荐一些值得看的在线课程"
 date:   2020-06-10
-categories: study
+categories: Study
 tags: course study casualtime
 author: David
+excerpt: 一些值得看的在线公开课介绍，涉及法学、计算机、社会学、哲学、经济学、管理学、文学、语言学、传播学、政治学、医学和环境学方面。Enjoy~
 ---
 
 * content
@@ -267,7 +268,7 @@ author: David
 
 
 
-## 历
+## 
 
 ### **01 西南大学公开课：葡萄酒文化**
 
@@ -341,7 +342,7 @@ author: David
 
 
 
-## 环
+## 环境学
 
 ### 01 英国公开大学：空气污染
 
