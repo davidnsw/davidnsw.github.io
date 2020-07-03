@@ -6,6 +6,7 @@ categories: Study
 tags: course study casualtime
 author: David
 excerpt: 一些值得看的在线公开课介绍，涉及法学、计算机、社会学、哲学、经济学、管理学、文学、语言学、传播学、政治学、医学和环境学方面。Enjoy~
+top: true
 ---
 
 * content
