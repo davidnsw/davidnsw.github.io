@@ -41,11 +41,11 @@ type: page
 
 
 
-**其他**
-
-GitHub：[David CHEN](https://github.com/davidnsw)
-
-电话：[请点击选择一个合适的通话时间](https://calendly.com/guangwei/phone-call)
+**David的其他项目**
+> * [David's software sharing library](https://davidnsw.github.io/lifeblog/#/)
+> * [The Next Generation of Self-learning](https://davidnsw.github.io/cover/)
+> * [GitHub](https://github.com/davidnsw)
+> * [电话：请点击此处选择一个合适的通话时间](https://calendly.com/guangwei/phone-call)
 
 
 
