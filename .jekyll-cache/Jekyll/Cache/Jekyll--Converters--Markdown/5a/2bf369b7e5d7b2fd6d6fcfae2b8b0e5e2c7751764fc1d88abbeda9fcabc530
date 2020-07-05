@@ -1,5 +1,4 @@
-I"�
-<ul id="markdown-toc">
+I"�<ul id="markdown-toc">
   <li><a href="#关于我" id="markdown-toc-关于我">关于我</a></li>
   <li><a href="#联系我" id="markdown-toc-联系我">联系我</a></li>
   <li><a href="#友情链接" id="markdown-toc-友情链接">友情链接</a></li>
@@ -12,26 +11,45 @@
 
 <h2 id="联系我">联系我</h2>
 
-<ul>
-  <li>
-    <p>GitHub：<a href="https://github.com/davidnsw">David CHEN</a></p>
-  </li>
-  <li>
-    <p>email：请通过下面的Disqus联系我</p>
-  </li>
-  <li>
-    <p><a href="http://weibo.com">Weibo</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.zhihu.com">知乎</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.facebook.com">Facebook</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.douban.com/people/55478060/">豆瓣</a></p>
-  </li>
-</ul>
+<p><strong>杂文</strong></p>
+
+<blockquote>
+  <p><a href="https://davidnsw.github.io/homepage/">Homepage</a> - 我的主页</p>
+
+  <p><a href="https://davidnsw.github.io./">Blog</a> - 我的博客</p>
+
+  <p>Notion：<a href="https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520">Life Wiki - Open</a> -临时笔记</p>
+</blockquote>
+
+<p><strong>读书</strong></p>
+
+<blockquote>
+  <ul>
+    <li><a href="https://www.douban.com/people/55478060/">豆瓣</a></li>
+    <li><a href="https://www.goodreads.com/user/show/57208002-david">Goodreads</a></li>
+    <li><a href="https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241">2020年推荐书目</a></li>
+  </ul>
+</blockquote>
+
+<p><strong>社交</strong></p>
+
+<blockquote>
+  <ul>
+    <li><a href="http://weibo.com">Weibo</a></li>
+    <li><a href="https://www.zhihu.com">知乎</a></li>
+    <li><a href="https://www.facebook.com">Facebook</a></li>
+  </ul>
+</blockquote>
+
+<p><strong>David的其他项目</strong></p>
+<blockquote>
+  <ul>
+    <li><a href="https://davidnsw.github.io/lifeblog/#/">David’s software sharing library</a></li>
+    <li><a href="https://davidnsw.github.io/cover/">The Next Generation of Self-learning</a></li>
+    <li><a href="https://github.com/davidnsw">GitHub</a></li>
+    <li><a href="https://calendly.com/guangwei/phone-call">电话：请点击此处选择一个合适的通话时间</a></li>
+  </ul>
+</blockquote>
 
 <h2 id="友情链接">友情链接</h2>
 
