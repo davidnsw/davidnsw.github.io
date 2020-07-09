@@ -15,14 +15,10 @@ type: page
 My name is David CHEN, and I'm a technical writer, blogger, and podcaster based in Newcastle, NSW. For more details, see my [technical writing blog](https://davidnsw.github.io.) and my [course on API documentation](https://davidnsw.github.io/doc/index.html).  See [my blog's about page](https://davidnsw.github.io./about/) for more details about me.
 ## 联系我
 
-**杂文**
+**我的主页**
 
 > [Homepage](https://davidnsw.github.io/homepage/) - 我的主页
->
-> [Blog](https://davidnsw.github.io./) - 我的博客
->
 > Notion：[Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520) -临时笔记
-
 
 
 **读书**
@@ -31,6 +27,9 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 > * [Goodreads](https://www.goodreads.com/user/show/57208002-david)
 > * [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
+写作
+> [Blog](https://davidnsw.github.io./) - 中文技术博客
+> [I'd Rather Be Writing](https://davidnsw.github.io./) - En Blog
 
 
 **社交**
@@ -38,14 +37,16 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 > * [Weibo](http://weibo.com)
 > * [知乎](https://www.zhihu.com)
 > * [Facebook](https://www.facebook.com)
+> * [电话：请点击此处选择一个合适的通话时间](https://calendly.com/guangwei/phone-call)
 
 
 
 **David的其他项目**
+> * [David's Documentation Collection 6.0](https://davidnsw.github.io/doc/mydoc_about.html)
 > * [David's software sharing library](https://davidnsw.github.io/lifeblog/#/)
 > * [The Next Generation of Self-learning](https://davidnsw.github.io/cover/)
 > * [GitHub](https://github.com/davidnsw)
-> * [电话：请点击此处选择一个合适的通话时间](https://calendly.com/guangwei/phone-call)
+
 
 
 
