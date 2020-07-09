@@ -17,8 +17,8 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 
 **我的主页**
 
-> [Homepage](https://davidnsw.github.io/homepage/) - 我的主页
-> Notion：[Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520) -临时笔记
+> * [Homepage](https://davidnsw.github.io/homepage/) - 我的主页
+> * [Life Wiki - Open](https://www.notion.so/Life-Wiki-Open-3fb82e852aa146b99498195843386520) -临时笔记
 
 
 **读书**
@@ -28,8 +28,8 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 > * [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
 写作
-> [Blog](https://davidnsw.github.io./) - 中文技术博客
-> [I'd Rather Be Writing](https://davidnsw.github.io./) - En Blog
+> * [Blog](https://davidnsw.github.io./) - 中文技术博客
+> * [I'd Rather Be Writing](https://davidnsw.github.io./) - En Blog
 
 
 **社交**
