@@ -33,7 +33,7 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 **写作**
 > * [Tech Blog](https://davidnsw.github.io./) - 中文技术博客
 > * [BB Blog](https://davidnsw.github.io/bb//) - 中文BB博客
-> * [I'd Rather Be Writing](https://davidnsw.github.io./) - En Blog
+> * [I'd Rather Be Writing](https://davidcnsw.github.io./) - En Blog
 
 
 **社交**
