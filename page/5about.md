@@ -12,8 +12,9 @@ type: page
 ## 关于我
 
 <iframe src="https://githubbadge.appspot.com/davidnsw?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-My name is David CHEN, and I'm a technical writer, blogger, and podcaster based in Newcastle, NSW. For more details, see my [technical writing blog](https://davidnsw.github.io.) and my [course on API documentation](https://davidnsw.github.io/doc/index.html).  See [my blog's about page](https://davidnsw.github.io./about/) for more details about me.
+My name is David CHEN, and I'm a technical writer, blogger, and podcaster based in Newcastle, NSW. For more details, see my [technical writing blog](https://davidnsw.github.io) and my [course on API documentation](https://davidnsw.github.io/doc/index.html).  See [my blog's about page](https://davidnsw.github.io./about/) for more details about me.
 ## 联系我
+
 **通讯**
 > * [电话：请点击此处选择一个合适的通话时间](https://calendly.com/guangwei/phone-call)
 > * [邮箱：请点击此处给我发邮件](https://davidnsw.wufoo.com/forms/znwd9sl14eoi0e/)
@@ -31,9 +32,9 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 > * [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
 **写作**
-> * [Tech Blog](https://davidnsw.github.io./) - 中文技术博客
-> * [BB Blog](https://davidnsw.github.io/bb//) - 中文BB博客
-> * [I'd Rather Be Writing](https://davidcnsw.github.io./) - En Blog
+> * [Tech Blog](https://davidnsw.github.io) - 中文学习博客
+> * [BB Blog](https://davidnsw.github.io/bb) - 中文BB博客 （镜像，已停用）
+> * [I'd Rather Be Writing](https://davidcnsw.github.io) - En Blog
 
 
 **社交**
