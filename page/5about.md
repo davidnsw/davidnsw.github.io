@@ -34,7 +34,7 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 **写作**
 > * [Tech Blog](https://davidnsw.github.io) - 中文学习博客
 > * [BB Blog](https://davidnsw.github.io/bb) - 中文BB博客 （镜像，已停用）
-> * [I'd Rather Be Writing](https://davidcnsw.github.io) - En Blog
+> * [I'd Rather Be Writing](https://davidcnsw.github.io/aboutme/) - En Blog
 
 
 **社交**
