@@ -36,14 +36,12 @@ By this year, WeChat monthly active users have exceeded 1.1 billion[4].
 
 With 1.4 billion people across the country, WeChat monthly active users have reached 1.1 billion, making it the most popular APP in China. This makes WeChat the best choice for us to contact prospective students in mainland China.
 
-![](https://i.imgur.com/DxmFi7Q.png)
-
 WeChat currently has 1.5 million monthly Australian users[5]. 
 
 WeChat is also very good tools to provide graduate application information and consulting services to undergraduates already studying in Australia (e.g. our current undergraduate student, transfer student from other institutions, or other normal users in Australia). 
 
  
-
+![](https://i.imgur.com/DxmFi7Q.png)
 An ordinary use’s official account [5]
 
  
