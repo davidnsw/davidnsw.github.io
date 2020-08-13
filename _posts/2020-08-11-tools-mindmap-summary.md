@@ -12,7 +12,7 @@ excerpt: 目前市面上的思维导图软件很多，究竟是选择线上的�
 {:toc}
 > 首先要怀念一下老笔记本Evenote，用了这么多年的老朋友，渐渐就淡了。记得我们学院一个老教授，一次在会议上还在给我安利呢。 目前首推Workflowy 和 GitHub Pages + Jekyll。
 
-https://cowtransfer.com/s/5279611688d344
+
 
 常见的四位导图分线上版本和线下。现在产品都升级了，商业版本一般都是PC端和线上同时支持的。POJIE或者免费的版本一般仅支持线上或者线下。这篇文章将介绍两款感觉不错的PC版，和几个目前评价不错的线上工具。
 
@@ -20,9 +20,9 @@ https://cowtransfer.com/s/5279611688d344
 
 PC上我用过的包括Xmind 和MindManager。两款各有优缺点，功能差不多，但用过的人都会争论用起来感觉差异很大。
 
-## MindManager
+## MindManager  
 
-MindManager 的优点是跟Outlook兼容性强，但是因为要收费，似乎现在只有大厂还在用。正好电脑上的还没卸载，就截几张图纪念一下吧。
+MindManager 的优点是跟Outlook兼容性强，但是因为要收费，似乎现在只有大厂还在用。正好电脑上的还没卸载，就截几张图纪念一下吧。[XiaZAI](https://cowtransfer.com/s/5279611688d344), mima:123456
 
 ![](https://i.imgur.com/I3JjhJO.png)
 
@@ -51,9 +51,7 @@ MindManager 的优点是跟Outlook兼容性强，但是因为要收费，似乎�
 
 在XMind的“任务信息”视图中，输入负责人，开始时间和截止时间，完成进度等。为特定的任务添加关联对象，以确定各任务间开始和完成的先后顺序。
 
-![image-20200813221835519](D:\images\markdown-2020images\image-20200813221835519.png)
-
-
+![](https://i.imgur.com/cPeMw2P.png)
 
 **项目管理中甘特图的使用**
 
@@ -67,7 +65,7 @@ Xmind的用户会觉得他们的甘特图漂亮，仁者见仁。
 
 XMind支持甘特图的分页打印，以及将甘特图导出到MS Project，PFD和图片格式，使沟通变得简单且高效。（其实导出成EXCEL，然后美化一下打印出来，效果更好）
 
-<img src="D:\images\markdown-2020images\image-20200813221915806.png" alt="image-20200813221915806" style="zoom:40%;" />
+<img src="https://i.imgur.com/9LJfQgD.png" style="zoom:50%;" />
 
 
 
@@ -78,6 +76,10 @@ XMind支持甘特图的分页打印，以及将甘特图导出到MS Project，PF
 **这也许是为什么，做咨询的朋友都喜欢Xmind。你想想，你墨迹半天做个ppt，甲方反正也不会认真听，反正大家都是来打卡，就用Xmind的演示功能糊弄一下吧。哈哈哈哈。**
 
 <img src="D:\images\markdown-2020images\image-20200813221955038.png" alt="image-20200813221955038" style="zoom:50%;" />
+
+## 下载
+
+MindManager : [ XiaZAI](https://cowtransfer.com/s/5279611688d344), password:123456
 
 # 线上思维导图工具
 
