@@ -75,11 +75,15 @@ XMind支持甘特图的分页打印，以及将甘特图导出到MS Project，PF
 
 **这也许是为什么，做咨询的朋友都喜欢Xmind。你想想，你墨迹半天做个ppt，甲方反正也不会认真听，反正大家都是来打卡，就用Xmind的演示功能糊弄一下吧。哈哈哈哈。**
 
-<img src="D:\images\markdown-2020images\image-20200813221955038.png" alt="image-20200813221955038" style="zoom:50%;" />
+![](https://i.imgur.com/EdSEJmk.png)
 
 ## 下载
 
 MindManager : [ XiaZAI](https://cowtransfer.com/s/5279611688d344), password:123456
+
+--------------
+
+
 
 # 线上思维导图工具
 
