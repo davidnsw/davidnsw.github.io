@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Google Search Console教程 - 那些小白入门就遇到的深坑"
+title: "Google Search Console教程，那些小白入门就遇到的深坑"
 date: 2015-08-14
-categories:BlogSkill
+categories: BlogSkill
 tags: google blogskill
 author: David
 excerpt: 为了添加google索引，进行Google Search Console验证，添加sitemap.xml文件，【绑定sitemap.xsl样式文件】，一个个小坑不断。这里做一个小结。
