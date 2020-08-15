@@ -33,7 +33,7 @@ My name is David CHEN, and I'm a technical writer, blogger, and podcaster based 
 > * [2020年推荐书目](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
 
 **写作**
-> * [Tech Blog](https://davidnsw.github.io) - 中文学习博客
+> * [DAVIDNSW Blog](https://davidnsw.github.io) - 中文学习博客
 > * [BB Blog](https://davidnsw.github.io/bb) - 中文BB博客 （镜像，已停用）
 > * [I'd Rather Be Writing](https://davidcnsw.github.io/aboutme/) - En Blog
 
