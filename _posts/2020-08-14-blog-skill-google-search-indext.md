@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Search Console教程，那些小白入门就遇到的深坑"
-date: 2015-08-14
+date: 2020-08-14
 categories: BlogSkill
 tags: google blogskill
 author: David
