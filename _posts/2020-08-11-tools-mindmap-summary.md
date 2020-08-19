@@ -30,7 +30,7 @@ MindManager 的优点是跟Outlook兼容性强，但是因为要收费，似乎�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4-p83B5ICQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<iframe width="100%" height="100%" src="https://share.mindmanager.com/#publish/8uezgkFRDi9eDj0ijuQSbNWMrK86DuhVzIMatURj"></iframe>
 
 ## Xmind
 
