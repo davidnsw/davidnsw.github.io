@@ -30,7 +30,6 @@ MindManager 的优点是跟Outlook兼容性强，但是因为要收费，似乎�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4-p83B5ICQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="100%" src="https://share.mindmanager.com/#publish/8uezgkFRDi9eDj0ijuQSbNWMrK86DuhVzIMatURj"></iframe>
 
 ## Xmind
 
@@ -107,3 +106,38 @@ MindManager : [ XiaZAI](https://cowtransfer.com/s/5279611688d344), password:1234
 
 大家有什么更好的工具，欢迎惦[点击这里](https://davidnsw.wufoo.com/forms/znwd9sl14eoi0e/)安利给我。
 
+
+
+# XMind配置防火墙
+
+1.打开控制面板，找到防火墙
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725142650456-1866616194.png)
+
+\2. 启用Windows防火墙
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725142731471-299364057.png)
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725142829841-988335764.png)
+
+3.高级设置，新建入站规则
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725142909918-1921353450.png)
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725142939504-211082911.png)
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725143003373-234612035.png)
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725143026081-1872835193.png)
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725143046599-1486763943.png)
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725143121102-972718758.png)
+
+配置部分一律“下一步”。
+
+![img](https://img2018.cnblogs.com/blog/1337511/201907/1337511-20190725143145533-354888879.png)
+
+ 
+
+ XMind配置防火墙完成。如果还不行，相同方式设置出站规则。
