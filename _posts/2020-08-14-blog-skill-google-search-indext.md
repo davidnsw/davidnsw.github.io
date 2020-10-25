@@ -8,6 +8,7 @@ author: David
 excerpt: 为了添加google索引，进行Google Search Console验证，添加sitemap.xml文件，【绑定sitemap.xsl样式文件】，一个个小坑不断。这里做一个小结。
 ---
 
+
 * content
 {:toc}
 > 这篇博客主要回答如下三个问题：Google Search Console如何验证，如何解决sitemap.xml识别错误，以及如何绑定绑定sitemap.xsl样式文件。
