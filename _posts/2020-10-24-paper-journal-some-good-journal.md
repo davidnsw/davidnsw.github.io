@@ -36,7 +36,7 @@ excerpt: 小结一下管理科学领域的一些期刊。
 **Informs Journal of Computing JOC**
 >UTD 24之一，和JOM 类似，由于受众面较小，在本领域影响力不够大，虽然都是 UTD 24,但一般会把他们和前四个明显区别对待。
 
-**Naval Research Logistics **
+**Naval Research Logistics**
 >NRL 可以预见到把 NRL 放在这个位置会引起比较大的争议，因为这杂志影响因子不高，在国内不受重视，但其实在北美很多商学院，大家都很认可这个杂志。新任主编 Ming Hu,更是我认为最近五年内 MS/OM 领域做的最出色的华人之一。
 
 ## 第四档
